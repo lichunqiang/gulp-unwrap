@@ -1,0 +1,31 @@
+{
+  "name": "gulp-unwrap",
+  "version": "0.0.1",
+  "description": "unwrap cmd modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lichunqiang/gulp-unwrap"
+  },
+  "keywords": [
+    "gulpplugin",
+    "cmd",
+    "unwrap"
+  ],
+  "author": "light",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lichunqiang/gulp-unwrap/issues"
+  },
+  "homepage": "https://github.com/lichunqiang/gulp-unwrap",
+  "devDependencies": {
+    "gulp": "^3.8.6"
+  },
+  "dependencies": {
+    "gulp-util": "^2.2.20",
+    "through2": "^0.5.1"
+  }
+}
