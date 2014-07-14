@@ -3,6 +3,12 @@ gulp-unwrap
 
 > [grunt-unwrap](https://github.com/aui/grunt-unwrap)'s gulp version.
 
+## Install
+
+```
+$ npm install gulp-unwrap --save-dev
+```
+
 ## Usage
 
 ```
