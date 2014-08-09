@@ -25,7 +25,7 @@
     "gulp": "^3.8.6"
   },
   "dependencies": {
-    "gulp-util": "^2.2.20",
-    "through2": "^0.5.1"
+    "gulp-util": "^3.0.1",
+    "through2": "^0.6.3"
   }
 }
