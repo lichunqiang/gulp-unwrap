@@ -9,13 +9,13 @@ gulp-unwrap
 
 ## Install
 
-```
+```sh
 $ npm install gulp-unwrap --save-dev
 ```
 
 ## Usage
 
-```
+```javascript
 var unwrap = require('gulp-unwrap');
 
 gulp.task('default', function(){
